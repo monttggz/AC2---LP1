@@ -1,4 +1,3 @@
-let nome = prompt('Digite seu nome')
+let novosNumeros = [1, 2, 3]
 
-let textoSemEspacos = nome.split(" ").join("");
-console.log(textoSemEspacos.length);
+let numeros_novo = numeros_pares.concat(numeros_impares)
